@@ -7,9 +7,9 @@
 
  
 
-1. Ae clone hết repo của tôi về máy.
-2. Ae mở nó trong Netbean( AE chỉ sửa phần btl_ltm_Client thôi nhé)
-3. Ae khi ae sửa một file nào đó hoặc cả một folder, chuột trái vào file/folder đó nó hiện phần git  -> ae vào commit để commit lại repo trong Local của máy mình .
+#### 1. Ae clone hết repo của tôi về máy.
+#### 2. Ae mở nó trong Netbean( AE chỉ sửa phần btl_ltm_Client thôi nhé)
+#### 3. Ae khi ae sửa một file nào đó hoặc cả một folder, chuột trái vào file/folder đó nó hiện phần git  -> ae vào commit để commit lại repo trong Local của máy mình .
 ![image](https://github.com/user-attachments/assets/e9cb5415-5747-44f3-8b9d-367256eae861)
 
 
@@ -62,9 +62,3 @@
 
 
 
-
-Đến những lần sau thì cứ thế mà push lên vào chọn thằng này thôi, không cần nhập user và pass nữa .
-
-
-
-=> Chốt lại, ae cứ làm một lượt và commit một lượt, cuối ngày rồi push lên cũng được, vì chỉ cần ae lưu lại commit trong máy thì nó đẩy lên github hết mà.
