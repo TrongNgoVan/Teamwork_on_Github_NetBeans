@@ -42,7 +42,9 @@
 
 ![image](https://github.com/user-attachments/assets/f881501c-f1d1-4a6d-97cb-bdef00f45833)
 
-#### Ae copy cái Token này vào mật khẩu ở netbean
+#### Ae copy cái Token này vào mật khẩu ở netbean.
+![image](https://github.com/user-attachments/assets/73408576-2eca-49c9-b1de-4ed65a87812d)
+
 
 
 
